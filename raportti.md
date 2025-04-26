@@ -68,4 +68,4 @@ Kuva valmiista sovelluksesta:
 
 ## [Linkki projektikansioon](https://github.com/joonas-hh-dev/Seminaari/tree/main/seminaari)
 
-## Demovideo
+## [Demovideo](https://haagahelia-my.sharepoint.com/personal/bgz332_myy_haaga-helia_fi/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbgz332%5Fmyy%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FRecording%2D20250426%5F171134%2Ewebm&nav=%7B%22defaultNavPanel%22%3A%7B%22pluginName%22%3A%22MediaSettingsLayer%22%7D%7D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9488cfbe%2De26f%2D4343%2D9b39%2D1d55cf3481d7)
