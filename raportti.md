@@ -56,8 +56,16 @@ Excelin rakenteesta johtuen vuosi- ja hinta-sarakkeita ei ollut. Jouduin luomaan
 ```df_long_melted['Vuosi'] = df_long_melted['Vuosi'].astype(int)```
 ```df_long_melted['Hinta'] = pd.to_numeric(df_long_melted['Hinta'], errors='coerce')```
 
-Sitten loin choroplethilla kartan ja lisäsin sen index.html-tiedostoon.
+Sitten loin choroplethilla kartan ja lisäsin sen index.html-tiedostoon:
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/203edc25-33bb-4910-83fe-7dbd01a01e3a" />
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/5793b25f-6d5a-4edd-89da-66c0a26a19ea" />
 
 Kuva valmiista sovelluksesta:
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/a6145e6d-3813-41b8-8b0c-1e0c62cd9f50" />
+
+## [Linkki projektikansioon](https://github.com/joonas-hh-dev/Seminaari/tree/main/seminaari)
+
+## Demovideo
