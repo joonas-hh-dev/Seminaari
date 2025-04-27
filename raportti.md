@@ -28,9 +28,9 @@ Tavoitteenani oli tehdä dynaaminen ja vuorovaikutteinen web-sovellus, jossa kä
 
 Ensin tein Asuntojen_hinnat_postinumeroalueittain-excelistä kopion ja poistin siitä tiedot, joita en tarvitse (ks. kuvat):
 
-<img width="640" alt="image" src="https://github.com/user-attachments/assets/aca24d1c-994d-4848-99c5-e687eb11a5e2" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/715271d4-42e6-4708-bf57-e32cb57abc5e" />
 
-<img width="640" alt="image" src="https://github.com/user-attachments/assets/8fa66c48-a61a-4cb4-9a50-37e12b7db73e" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/048bca4b-7046-4288-afe1-d83ba18b1345" />
 
 Sen jälkeen hain excelin tiedot. Postinumeroita ei aluksi meinannut löytyä geojson-tiedostosta, kunnes tajusin syyn olevan se, että excelissä ne ovat kokonaislukuja ja geojsonissa merkkijonoja. Siispä muutin excelin postinumero-sarakkeen merkkijonoksi:
 
@@ -64,7 +64,7 @@ Sitten loin choroplethilla kartan ja lisäsin sen index.html-tiedostoon:
 
 Kuva valmiista sovelluksesta:
 
-<img width="640" alt="image" src="https://github.com/user-attachments/assets/a6145e6d-3813-41b8-8b0c-1e0c62cd9f50" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/69b01c2c-242b-4616-a025-79e6538a9979" />
 
 ## [Linkki projektikansioon](https://github.com/joonas-hh-dev/Seminaari/tree/main/seminaari)
 
